@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently learning **mobile development**
+- 🌱 I’m currently learning **full stack development**
 
 - 👯 I’m looking to collaborate on **a game**
 
-- 🤝 I’m looking for help with **full stack development**
+- 🤝 I’m looking for help with **mobile development**
 
 - 👨‍💻 All of my projects are available at [lsalazar.me](lsalazar.me)
 
