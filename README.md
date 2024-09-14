@@ -31,3 +31,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/leosalazar7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leosalazar7" /></a></p><br><br>
+
+![Capybara Rodent Guinea Pig](https://github.com/user-attachments/assets/12a05aa7-14e6-4043-88d3-a53370c081d4)
