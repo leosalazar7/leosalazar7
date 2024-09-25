@@ -4,9 +4,29 @@
 
 #cv_name {
     text-align: center;
+    margin-bottom: -18px;
 }
 
 #subheading {
     font-size: 16px;
+    margin-bottom: 0px;
+}
+
+#text {
+    margin: 0px;
+}
+
+#heading_rule {
+    margin-top: 0px;
+    margin-bottom: -10px;
+    height: 2px;
+    background-color: black;
+}
+
+#indent {
+    margin-left: -20px;
+}
+
+#subsubheading {
     margin-bottom: 0px;
 }
