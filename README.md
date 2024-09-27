@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **mobile development**
 
-- 👨‍💻 All of my projects are available at [lsalazar.me](lsalazar.me)
+- 👨‍💻 All of my projects are available at [github.com/leosalazar7](https://github.com/leosalazar7)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **leosalazar137@gmail.com**
 
-- 📄 Know about my experiences [lsalazar.me/resume](lsalazar.me/resume)
+- 📄 Know about my experiences [leosalazar.dev](https://leosalazar.dev)
 
 - ⚡ Fun fact **I like playing the piano**
 
